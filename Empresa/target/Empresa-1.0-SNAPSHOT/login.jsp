@@ -39,6 +39,8 @@
                                         <div class="form-group" style="margin-top: 10px">
                                             <input type="password" class="form-control form-control-user"
                                                    id="password" name="password" placeholder="password">
+                                            <div id="muestra_cont" class="form-text" style="display: none;">contraseña incorrecta, quedan ${contador} intentos</div>
+
                                         </div>
                                         <input type="hidden" id="contador" name="contador" type="number" value="${contador}" readonly="">
                                         <button type="submit" class="btn btn-primary btn-user btn-block" style="margin-top: 10px">Iniciar Sesion</button>
@@ -65,5 +67,9 @@
                 document.getElementById("form").submit();       
             }
         });
+        let contador = $("#contador").val();
+        if(contador >0 && contador <5){
+            document.getElementById("muestra_cont").style.display="block";
+        }
     </script>
 </html>
