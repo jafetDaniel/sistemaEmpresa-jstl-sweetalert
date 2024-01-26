@@ -4,9 +4,10 @@ sistema web en java usando jstl, sweetalert, javaScript, jspf, servlets, jsp, jp
 •   Crear el proyecto en NetBeans, Java web, Web Application con el nombre “Empresa” que debe de contener los siguientes archivos:
 
 o   Login.jsp 
-    -Validación de acceso
-    -Más de 5 intentos se suspende el usuario, mostrando el mensaje:
-        Usuario suspendido, favor de contactar al departamento de T.I.
+<ul>
+    <li>Validación de acceso</li>
+    <li>Más de 5 intentos se suspende el usuario, mostrando el mensaje: Usuario suspendido, favor de contactar al departamento de T.I.</li>
+</ul>
 
 o   AltaModificaUsuario.jsp
 
