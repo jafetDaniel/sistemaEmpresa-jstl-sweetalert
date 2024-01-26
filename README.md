@@ -41,12 +41,21 @@ o   AltaModificaUsuario.jsp
 </ul>
 
 - Deberá de validar los campos:
-      • Si existe algún campo vació mostrar mensaje que faltan datos por ingresar.
-      • Si No existe campos vacíos Mostrar mensaje, estás seguro de registrar al usuario, deberá de contener dos botones:
-          o Cancelar 
-           -    Cierra el mensaje.
-          o Registrar
-           - Deberá de registrar a la base de datos y mostrando el mensaje Usuario registrado correctamente.
+  <ul>
+      <li>Si existe algún campo vació mostrar mensaje que faltan datos por ingresar.</li>
+      <li>Si No existe campos vacíos Mostrar mensaje, estás seguro de registrar al usuario, deberá de contener dos botones:
+          <ul>
+              <li>Cancelar
+                 <ul><li>Cierra el mensaje.</li></ul>
+             </li>
+              <li>Registrar
+                  ul><li>Deberá de registrar a la base de datos y mostrando el mensaje Usuario registrado correctamente.</li></ul>
+              </li>
+          </ul>
+      </li>
+      <li></li>
+      <li></li>
+  </ul>
 
     -   En el mismo archivo se deberá de mostrar en una tabla con Bootstrap los usuarios creados, con los datos del formulario de Alta.
     -   Modificación de usuario, deberá de contener los mismos datos de alta y características.
