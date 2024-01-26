@@ -11,22 +11,33 @@ o   Login.jsp
 o   AltaModificaUsuario.jsp
 
 -Formulario de alta
-     •  Nombre.
-     •  Apellido Paterno.
-     •  Apellido Materno.
-     •  Correo.
-     •  Teléfono.
-     •  Perfil usuario.
-        o   Master.
-        o   Empleado.
-     •  Estatus
-        o   (A)  Activo.
-        o   (S)  Suspendido.
-     •  Usuario.
-     •  Password.
-        o   Mínimos 8 Caracteres
-        o   Una letra Mayúscula
-        o   Un número
+<ul>
+    <li>Nombre</li>
+    <li>Apellido Paterno</li>
+    <li>Apellido Materno</li>
+    <li>Correo</li>
+    <li>Teléfono</li>
+    <li>Perfil usuario
+        <ul>
+            <li>Master</li>
+            <li>Empleado</li>
+        </ul>
+    </li>
+    <li>Estatus
+        <ul>
+            <li>(A) Activo.</li>
+            <li>(S) Suspendido.</li>
+        </ul>
+    </li>
+    <li>Usuario</li>
+    <li>Password
+        <ul>
+            <li>Mínimos 8 Caracteres</li>
+            <li>Una letra Mayúscula</li>
+            <li>Un número</li>
+        </ul>
+        </li>
+</ul>
 
 - Deberá de validar los campos:
       • Si existe algún campo vació mostrar mensaje que faltan datos por ingresar.
@@ -77,9 +88,9 @@ o   Servlet
 o   Java Interface
 o   Implements de Java Interface
 
-<img src="src/main/webapp/img/empresa1.png">
-<img src="src/main/webapp/img/empresa2.png">
-<img src="src/main/webapp/img/empresa3.png">
-<img src="src/main/webapp/img/empresa4.png">
-<img src="src/main/webapp/img/empresa5.png">
-<img src="src/main/webapp/img/empresa6.png">
+<img src="Empresa/src/main/webapp/img/empresa1.png">
+<img src="Empresa/src/main/webapp/img/empresa2.png">
+<img src="Empresa/src/main/webapp/img/empresa3.png">
+<img src="Empresa/src/main/webapp/img/empresa4.png">
+<img src="Empresa/src/main/webapp/img/empresa5.png">
+<img src="Empresa/src/main/webapp/img/empresa6.png">
