@@ -1,6 +1,5 @@
 <%@page import="com.mycompany.empresa.models.Usuario"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%
     Usuario user_session = (Usuario) request.getSession().getAttribute("user_session"); //obtener valor de la sesion
     if (user_session == null) {
