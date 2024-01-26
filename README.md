@@ -1,5 +1,5 @@
 # sistemaEmpresa-jstl-sweetalert
-sistema web en java usando jstl, sweetalert, javaScript, jspf, servlets, jsp, jpa, Bootstrap
+Sistema web en java usando jstl, sweetalert, javaScript, jspf, servlets, jsp, jpa, Bootstrap
 
 •   Crear el proyecto en NetBeans, Java web, Web Application con el nombre “Empresa” que debe de contener los siguientes archivos:
 
@@ -57,43 +57,43 @@ o   AltaModificaUsuario.jsp
       <li>Modificación de usuario, deberá de contener los mismos datos de alta y características.</li>
   </ul>
 
-o   Bienvenido.jsp 
+o   Bienvenido.jsp <br>
     -   Deberá de mostrar el texto “Bienvenido a tu empresa”, mostrando los datos del usuario ingresado en una tabla con Bootstrap.
 
-o   MenuOpciones.jspf
+o   MenuOpciones.jspf <br>
     -   Deberán de contener los archivos jsp
 
-•   Crear base de datos en MySQL que se llame “Empresa” que debe de incluir las siguientes tablas:
-    o   Usuario
-    o   Acceso
-    o   PerfilUsuario
-        -   Master
-        -   Empleado
-    o   Estatus
-        -   Activo
-        -   Suspendido
+•   Crear base de datos en MySQL que se llame “Empresa” que debe de incluir las siguientes tablas: <br>
+    o   Usuario <br>
+    o   Acceso <br>
+    o   PerfilUsuario <br>
+        -   Master <br>
+        -   Empleado <br>
+    o   Estatus <br>
+        -   Activo <br>
+        -   Suspendido <br>
 
 o   Todas las tablas deberán estar relacionadas.
 
-o   Características de los Usuario 
-    -   Master deberá poder:
-        •   Ingresar desde el archivo Login.jsp
-        •   MenuOpciones.jspf
-            -   Tener acceso a todos los archivos creados.
-            -   Podrá Crear y Modificar a los usuarios Empleados. 
-    -   Empleado 
-        •   Deberá ingresar desde el archivo Login.jsp
-        •   MenuOpciones.jspf
-            -   Tener acceso al archivo de Bienvenido.jsp
+o   Características de los Usuario <br>
+    -   Master deberá poder: <br>
+        •   Ingresar desde el archivo Login.jsp <br>
+        •   MenuOpciones.jspf <br>
+            -   Tener acceso a todos los archivos creados. <br>
+            -   Podrá Crear y Modificar a los usuarios Empleados.  <br>
+    -   Empleado  <br>
+        •   Deberá ingresar desde el archivo Login.jsp <br>
+        •   MenuOpciones.jspf <br>
+            -   Tener acceso al archivo de Bienvenido.jsp <br>
 
-•   Deberán usar:
-o   IDE Desarrollo NetBeans
-o   Bootstrap
-o   Sweetalert (Para todos los mensajes).
-o   JavaScript
-o   Servlet
-o   Java Interface
-o   Implements de Java Interface
+•   Deberán usar: <br>
+o   IDE Desarrollo NetBeans <br>
+o   Bootstrap <br>
+o   Sweetalert (Para todos los mensajes). <br>
+o   JavaScript <br>
+o   Servlet <br>
+o   Java Interface <br>
+o   Implements de Java Interface <br>
 
 <img src="Empresa/src/main/webapp/img/empresa1.png">
 <img src="Empresa/src/main/webapp/img/empresa2.png">
