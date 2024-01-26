@@ -81,7 +81,7 @@ o   Características de los Usuarios <br>
         •   MenuOpciones.jspf <br>
             -   Tener acceso a todos los archivos creados. <br>
             -   Podrá Crear y Modificar a los usuarios Empleados.  <br>
-    -   Empleados  <br>
+    -   Empleados  <br> <br>
         •   Deberá ingresar desde el archivo Login.jsp <br>
         •   MenuOpciones.jspf <br>
             -   Tener acceso al archivo de Bienvenido.jsp <br>
