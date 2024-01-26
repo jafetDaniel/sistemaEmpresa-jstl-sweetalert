@@ -75,13 +75,15 @@ o   MenuOpciones.jspf <br>
 
 o   Todas las tablas deberán estar relacionadas.
 
-o   Características de los Usuarios <br>
-    -   Master deberá poder: <br>
+o   Características de los Usuarios: <br>
+
+-   Master deberá poder: <br>
         •   Ingresar desde el archivo Login.jsp <br>
         •   MenuOpciones.jspf <br>
             -   Tener acceso a todos los archivos creados. <br>
             -   Podrá Crear y Modificar a los usuarios Empleados.  <br>
-    -   Empleados  <br> <br>
+            
+-   Empleados  <br> 
         •   Deberá ingresar desde el archivo Login.jsp <br>
         •   MenuOpciones.jspf <br>
             -   Tener acceso al archivo de Bienvenido.jsp <br>
