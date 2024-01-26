@@ -10,7 +10,7 @@ o	Login.jsp
 
 o	AltaModificaUsuario.jsp
 
--Formulario de alta
+	-Formulario de alta
      •	Nombre.
      •	Apellido Paterno.
      •	Apellido Materno.
@@ -28,7 +28,7 @@ o	AltaModificaUsuario.jsp
         o	Una letra Mayúscula
         o	Un número
 
-- Deberá de validar los campos:
+	- Deberá de validar los campos:
       •	Si existe algún campo vació mostrar mensaje que faltan datos por ingresar.
       •	Si No existe campos vacíos Mostrar mensaje, estás seguro de registrar al usuario, deberá de contener dos botones:
           o	Cancelar 
@@ -76,14 +76,8 @@ o	JavaScript
 o	Servlet
 o	Java Interface
 o	Implements de Java Interface
+
 •	Concluyendo el ejercicio deberán de proporcionar vía correo:
 o	Base de datos
 o	Archivo WAR
 o	Proyecto
-
-<img src="src/main/webapp/img/empresa1.png">
-<img src="src/main/webapp/img/empresa2.png">
-<img src="src/main/webapp/img/empresa3.png">
-<img src="src/main/webapp/img/empresa4.png">
-<img src="src/main/webapp/img/empresa5.png">
-<img src="src/main/webapp/img/empresa6.png">
