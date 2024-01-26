@@ -49,16 +49,13 @@ o   AltaModificaUsuario.jsp
                  <ul><li>Cierra el mensaje.</li></ul>
              </li>
               <li>Registrar
-                  ul><li>Deberá de registrar a la base de datos y mostrando el mensaje Usuario registrado correctamente.</li></ul>
+                  <ul><li>Deberá de registrar a la base de datos y mostrando el mensaje Usuario registrado correctamente.</li></ul>
               </li>
           </ul>
       </li>
-      <li></li>
-      <li></li>
+      <li>En el mismo archivo se deberá de mostrar en una tabla con Bootstrap los usuarios creados, con los datos del formulario de Alta.</li>
+      <li>Modificación de usuario, deberá de contener los mismos datos de alta y características.</li>
   </ul>
-
-    -   En el mismo archivo se deberá de mostrar en una tabla con Bootstrap los usuarios creados, con los datos del formulario de Alta.
-    -   Modificación de usuario, deberá de contener los mismos datos de alta y características.
 
 o   Bienvenido.jsp 
     -   Deberá de mostrar el texto “Bienvenido a tu empresa”, mostrando los datos del usuario ingresado en una tabla con Bootstrap.
